@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410084** |
+| Nama Lengkap | **Berlian Dwi Putri** |
 | Kelas | TI-4B |
